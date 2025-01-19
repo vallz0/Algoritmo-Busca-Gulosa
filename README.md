@@ -19,5 +19,5 @@ This project showcases an implementation of the Greedy Search Algorithm using Py
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/vallz0/Algoritmo-Busca-Gulosa.git
-   cd Algoritmo-Busca-Gulosa
+   git clone https://github.com/vallz0/Greedy-algorithm.git
+   cd Greedy-algorithm
